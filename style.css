@@ -1,0 +1,249 @@
+
+#logo {
+    width: 150pt;
+    height: 50pt;
+    position: absolute;
+    left: 100pt;
+    top: 10pt;
+}
+#floatingSelect {
+    min-width: auto;
+    width: auto;
+    padding-right: 2.25rem;
+    line-height: 1.25rem;
+    color: inherit;
+    filter: opacity(70%);
+    position: absolute;
+    right: 200pt;
+    top: 20pt;
+}
+
+.signout {
+    min-width: auto;
+    width: auto;
+    position: absolute;
+    right: 115pt;
+    top: 20pt;
+}
+
+#fw-bolder {
+    font-weight: bold;
+    font-size: 40;
+    position: absolute;
+    right: 200pt;
+    top: 230pt; 
+    color: white;
+}
+
+.fs-4 {
+    position: absolute;
+    right: 410pt;
+    top: 200pt; 
+    color: white;
+}
+
+#fs-3{
+    position: absolute;
+    right: 320pt;
+    top: 280pt; 
+    color: white;
+}
+
+.center-btn {
+    position: absolute;
+    right: 400pt;
+    top: 330pt; 
+    color: red;
+}
+
+hr {
+    color: white;
+}
+#enjoytext {
+    font-weight: 900;
+    font-size:3rem;
+    min-width: 960px;
+    position: absolute;
+    color: white;
+    position: absolute;
+    left: 130pt;
+    top: 630pt;
+}
+
+#mid-head {
+    width: 550px;
+    position: absolute;
+    left: 130pt;
+    top: 680pt; 
+    color: white;
+}
+#offline {
+    position: absolute;
+    left: 100pt;
+    top: 900pt;
+}
+#offlinetext{
+    width: 350px;
+    font-weight: 900;
+    font-size:3rem;
+    position: absolute;
+    color: white;
+    position: absolute;
+    right: 200pt;
+    top: 900pt;
+}
+#midofmi-head{
+    width: 550px;
+    position: absolute;
+    right: 50pt;
+    top: 1050pt; 
+    color: white;
+}
+
+#imac{
+    position: absolute;
+    right: 70pt;
+    top: 1250pt;
+    width: 500px;
+}
+
+#imactext{
+    font-weight: 900;
+    font-size:3rem;
+    position: absolute;
+    color: white;
+    position: absolute;
+    left: 100pt;
+    top: 1300pt;
+}
+
+#thirdrdlast{
+    width: 550px;
+    position: absolute;
+    left: 100pt;
+    top: 1350pt; 
+    color: white;
+}
+
+#childimg{
+    position: absolute;
+    left: 30pt;
+    top: 1550pt;
+}
+
+#chlidtext{
+    font-weight: 900;
+    font-size:3rem;
+    position: absolute;
+    color: white;
+    position: absolute;
+    right: 100pt;
+    top: 1600pt;
+    width: 350pt;
+}
+
+#chlidrentext{
+    width: 530px;
+    position: absolute;
+    right: 50pt;
+    top: 1700pt; 
+    color: white;
+}
+
+#que {
+    font-weight: bold;
+    font-size: 40;
+    position: absolute;
+    right: 280pt;
+    top: 2650; 
+    color: white;
+}
+
+.FAQ-list{
+    
+    position: absolute;
+    top: 2050pt;
+}
+
+.FAQ-question {
+    width: 70%;
+  }
+  .FAQ-title {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    font-size: 18px;
+    background-color: #303030;
+    border: 1px solid #303030;
+    color: white;
+  }
+  
+  .FAQ-answer {
+    background-color: #303030;
+    border-top: 1px solid black;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out;
+  }
+  
+  .FAQ-answer > p {
+    margin: 1rem;
+  }
+  .FAQ-list-container {
+    border-top: 8px solid #222;
+    padding: 2rem 0;
+  }
+  .FAQ-heading {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+    margin: 1rem 3rem;
+  }
+  
+  .FAQ-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .Finishbtn{
+    position: absolute;
+    top: 330pt;
+    right: 420pt;
+  }
+
+  .Footer{
+    color: white;
+    position: absolute;
+    top: 2470pt; 
+    left: 120pt;
+  }
+  
+ 
+  .coloumn2{
+    position: absolute;
+    top: 30pt; 
+    left: 150pt;
+  }
+
+  .coloumn3{
+    position: absolute;
+    top: 30pt; 
+    left: 300pt;
+  }
+  .coloumn4{
+    position: absolute;
+    top: 30pt; 
+    left: 460pt;
+  }
+
+  .form-select{
+    color: white;
+    position: absolute;
+    top: 200pt; 
+    width: 100%;
+    
+  }
